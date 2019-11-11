@@ -5,7 +5,8 @@ this space is a set of my little programs for something
 
 关键函数学习
 https://blog.csdn.net/fengxianghui01/article/details/82119680
-(2)
+
+(2)pascal VOCtoo csv.py
 实现功能：
 	将pascal voc的xml数据转换成txt格式的文件，用于对retinanet网络进行训练.(使用python3)
 需要：
